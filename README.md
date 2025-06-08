@@ -15,7 +15,7 @@ Discord bot for aggregating and monitoring car offers from multiple Polish autom
 
 ## Setup
 ### 1. Clone repository.
-```git clone [LINK]```
+```git clone https://github.com/MRCHKK/PolishDealsBot.git```
 
 ### 2. Create virtual environment
 ```python -m venv venv ```  
